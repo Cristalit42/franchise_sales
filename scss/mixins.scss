@@ -1,0 +1,12 @@
+@mixin text-style($fw, $fz, $lh, $color) {
+  font-weight: $fw;
+  font-size: $fz;
+  line-height: $lh;
+  color: $color;
+}
+@mixin color-gradient($lg) {
+  background: $lg;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

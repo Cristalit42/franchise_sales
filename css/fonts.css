@@ -1,0 +1,50 @@
+@font-face {
+  font-family: "Forum";
+  font-weight: 400;
+  font-style: normal;
+  src:
+    url("../fonts/forum-regular.eot") format("eot"),
+    url("../fonts/forum-regular.woff") format("woff"),
+    url("../fonts/forum-regular.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Made the artist script";
+  font-weight: 400;
+  font-style: normal;
+  src:
+    url("../fonts/madeTheArtistScript-regular.eot") format("eot"),
+    url("../fonts/madeTheArtistScript-regular.woff") format("woff"),
+    url("../fonts/madeTheArtistScript-regular.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Manrope";
+  font-weight: 300;
+  font-style: normal;
+  src:
+    url("../fonts/manrope-light.eot") format("eot"),
+    url("../fonts/manrope-light.woff") format("woff"),
+    url("../fonts/manrope-light.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Manrope";
+  font-weight: 400;
+  font-style: normal;
+  src:
+    url("../fonts/manrope-regular.eot") format("eot"),
+    url("../fonts/manrope-regular.woff") format("woff"),
+    url("../fonts/manrope-regular.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Manrope";
+  font-weight: 500;
+  font-style: normal;
+  src:
+    url("../fonts/manrope-medium.eot") format("eot"),
+    url("../fonts/manrope-medium.woff") format("woff"),
+    url("../fonts/manrope-medium.woff2") format("woff2");
+  font-display: swap;
+}
